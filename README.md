@@ -5,10 +5,16 @@
 |key|value|
 |---|-----|
 |Name|南　達輝 (Minami Tatsuki)|
+|email|mtatsu10@gmail.com|
 |Blog|https://sudbriller.hatenablog.com/|
 |Github|(https://github.com/TatsukiMinami)|
 |Twitter|[@Mtatsu10Ta](https://twitter.com/Mtatsu10Ta)|
 
+### 学歴
+|key|value|
+|201503|北海道札幌開成高等学校卒業|
+|201604|HAL東京入学|
+|201810|HAL東京中退|
 ## スキル
 ### 言語
 - Ruby
@@ -41,7 +47,6 @@
  - 2018年から現在
  - 5.x, 6.0
  - 読み書き問題なし
-
 
 ### その他
 
