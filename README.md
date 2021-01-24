@@ -11,6 +11,7 @@
 |Twitter|[@Mtatsu10Ta](https://twitter.com/Mtatsu10Ta)|
 
 ### 学歴
+
 |key|value|
 |---|-----|
 |201503|北海道札幌開成高等学校卒業|
