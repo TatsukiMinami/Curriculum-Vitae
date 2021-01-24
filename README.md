@@ -10,7 +10,7 @@
 |Github|(https://github.com/TatsukiMinami)|
 |Twitter|[@Mtatsu10Ta](https://twitter.com/Mtatsu10Ta)|
 
-### 学歴
+## 学歴
 
 |key|value|
 |---|-----|
