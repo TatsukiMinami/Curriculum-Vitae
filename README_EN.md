@@ -119,6 +119,3 @@ Job Title: Web Application Engineer
 
 
 ### Writings
-
-
-Translated with www.DeepL.com/Translator (free version)
