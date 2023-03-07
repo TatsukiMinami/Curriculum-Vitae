@@ -24,23 +24,23 @@
 - Javascript
   - 2016 to present
 - HTML
-  - From 2016 to present
+  - 2016 to present
 - CSS
   - 2016 to present
 - SQL
-  - from 2016 to present
+  - 2016 to present
 - Java
  - 2016 to present
 - Golang
- - Since 2021 and up
+ - 2021 to present
 - Swift
-  - Since 2021 and up
+  - 2021 to present
 - Kotlin
-  - 2021-present
+  - 2021 to present
 ### Frameworks
 
 - Ruby on Rails
- - 2018-present
+ - 2018 to present
  - 5.x, 6.0
 
 ### Others
